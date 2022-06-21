@@ -1,1 +1,1 @@
-My first readme
+This is a git readme added in my new directory
